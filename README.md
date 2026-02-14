@@ -35,11 +35,6 @@ A static website for Medical Students for Choice, featuring board member informa
 
 5. Your website will be available at: `https://your-username.github.io/repo-name`
 
-## Admin Access
-
-- Default admin password: `msfc2024`
-- To change the password, update the `ADMIN_PASSWORD` constant in `script.js`
-
 ## Newsletter Management
 
 1. Log in as admin using the password
